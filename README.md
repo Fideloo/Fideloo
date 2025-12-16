@@ -1,4 +1,12 @@
-## Hi there 👋
+Hi there! 😊
+
+I'm Luiz Gustavo, a Fullstack Developer based in Brazil. 
+
+I love solving problems and turning ideas into code immediately.
+
+Main Techs: Node.js, TypeScript, SQL, SAP, and Python.
+
+Contact: luizfidelix@gmail.com
 
 <!--
 **Fideloo/Fideloo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

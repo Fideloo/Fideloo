@@ -57,7 +57,7 @@ manifesto:
   <img src="https://img.shields.io/badge/Next.js-0d0818?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=160d29" alt="Next.js" />
 
   <!-- Modern AI, Systems & DB -->
-  <img src="https://img.shields.io/badge/MCP-Protocol-0d0818?style=for-the-badge&logo=anthropic&logoColor=c084fc&labelColor=160d29" alt="MCP" />
+  <img src="https://img.shields.io/badge/AI/MCP-Protocol-0d0818?style=for-the-badge&logo=anthropic&logoColor=c084fc&labelColor=160d29" alt="MCP" />
 </p>
 
 ---

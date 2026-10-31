@@ -51,11 +51,9 @@ outside_the_terminal:
 
 ### Frontend & Tools
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,git,github,docker" alt="Frontend and development tools"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,git,github" alt="Frontend and development tools"/>
 
 </div>
-
-> Technologies shown here represent my development toolkit and areas of interest. Adjust the icons to match the tools you actively use.
 
 ### `> currently_exploring`
 

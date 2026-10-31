@@ -19,7 +19,7 @@
   <img src="./assets/divider-consequences.svg" alt="Story-driven Divider" width="100%" />
 </p>
 
-### `> who_am_i`
+### `> who-am-i`
 
 ```yaml
 identity:
@@ -44,7 +44,7 @@ manifesto:
 
 ---
 
-### `>core_tech_arsenal`
+### `>core-tech-arsenal`
 
 <p align="center">
   <!-- Languages & Runtimes -->
@@ -62,7 +62,7 @@ manifesto:
 
 ---
 
-### `>side_quests_&_narrative_lore`
+### `>side-quests-&-narrative-lore`
 
 <div align="center">
 
@@ -87,7 +87,7 @@ manifesto:
 
 ---
 
-### `>code_telemetry`
+### `>code-telemetry`
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Fideloo/Fideloo/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
@@ -95,7 +95,7 @@ manifesto:
 
 ---
 
-### `>let's_connect_&_build`
+### `>let's-connect-&-build`
 
 <p align="center">
   <a href="https://linkedin.com/in/fideloo" target="_blank">

@@ -56,34 +56,11 @@ manifesto:
   <img src="https://img.shields.io/badge/React-0d0818?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=160d29" alt="React" />
   <img src="https://img.shields.io/badge/Next.js-0d0818?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=160d29" alt="Next.js" />
 
-  <!-- Modern AI, Systems & DB -->
+  <!-- Cloud, Enterprise & AI -->
+  <img src="https://img.shields.io/badge/SAP_BTP-0d0818?style=for-the-badge&logo=sap&logoColor=0FAAFF&labelColor=160d29" alt="SAP BTP" />
+  <img src="https://img.shields.io/badge/SAP_HANA-0d0818?style=for-the-badge&logo=sap&logoColor=0FAAFF&labelColor=160d29" alt="SAP HANA" />
   <img src="https://img.shields.io/badge/AI/MCP-Protocol-0d0818?style=for-the-badge&logo=anthropic&logoColor=c084fc&labelColor=160d29" alt="MCP" />
 </p>
-
----
-
-### `>side-quests-&-narrative-lore`
-
-<div align="center">
-
-<table width="100%">
-  <tr>
-    <td width="33%" align="center" valign="top">
-      <h4>🦋 Arcadia Bay 🦋</h4>
-      <p><i>"This Action Will Have Consequences."</i></p>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h4>⌚ 2:15 • Jackson ⌚</h4>
-      <p><i>"Endure and Survive."</i></p>
-    </td>
-    <td width="33%" align="center" valign="top">
-      <h4>💾 Night City Relic 💾</h4>
-      <p><i>"City of Dreams"</i></p>
-    </td>
-  </tr>
-</table>
-
-</div>
 
 ---
 
@@ -98,14 +75,17 @@ manifesto:
 ### `>let's-connect-&-build`
 
 <p align="center">
-  <a href="https://linkedin.com/in/fideloo" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0d0818?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=160d29" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/luiz-gustavo-cardoso-fid%C3%A9lix-b0045354/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0d0818?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=160d29&v=1" alt="LinkedIn" />
+  </a>
+  <a href="https://www.instagram.com/fid3lo/" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-0d0818?style=for-the-badge&logo=instagram&logoColor=E4405F&labelColor=160d29" alt="Instagram" />
+  </a>
+  <a href="https://open.spotify.com/user/itxahewsfub2kxwzn46rsfrrg?si=b6c63336c75c4f5c" target="_blank">
+    <img src="https://img.shields.io/badge/Spotify-0d0818?style=for-the-badge&logo=spotify&logoColor=1ED760&labelColor=160d29" alt="Spotify" />
   </a>
   <a href="mailto:luizfidelix@gmail.com">
     <img src="https://img.shields.io/badge/Email-0d0818?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=160d29" alt="Email" />
-  </a>
-  <a href="https://github.com/Fideloo">
-    <img src="https://img.shields.io/badge/GitHub-0d0818?style=for-the-badge&logo=github&logoColor=white&labelColor=160d29" alt="GitHub" />
   </a>
 </p>
 

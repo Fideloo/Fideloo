@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Turning+ideas+into+working+software.;Some+stories+are+told+through+games.+Others+through+code.;Endure+and+survive.+Building+things+that+last.;Exploring+AI%2C+MCP+and+backend+architecture." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Turning+ideas+into+working+software.;Some+stories+are+told+through+games.+Others+through+code.;Endure+and+survive.+Building+things+that+last.;Exploring+AI." alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -12,14 +12,14 @@
   </a>
   <img src="https://img.shields.io/badge/LOCATION-BRAZIL-090d16?style=for-the-badge&logo=googlemaps&logoColor=10b981&labelColor=0d1424" alt="Location Brazil" />
   <img src="https://img.shields.io/badge/ROLE-FULL--STACK%20%40%20B2RISE-090d16?style=for-the-badge&logo=codeforces&logoColor=00f0ff&labelColor=0d1424" alt="Role" />
-  <img src="https://img.shields.io/badge/FOCUS-AI%20%26%20SOFTWARE-090d16?style=for-the-badge&logo=anthropic&logoColor=f59e0b&labelColor=0d1424" alt="Focus" />
+  <img src="https://img.shields.io/badge/FOCUS-AI%20%26%20SOFTWARE-090d16?style=for-the-badge&labelColor=0d1424" alt="Focus" />
 </p>
 
 <p align="center">
   <img src="./assets/divider-consequences.svg" alt="Story-driven Divider" width="100%" />
 </p>
 
-### 👾 `> whoami`
+### `> whoami`
 
 ```yaml
 identity:
@@ -44,7 +44,7 @@ manifesto:
 
 ---
 
-### ⚡ Core Tech Arsenal
+### `>Core Tech Arsenal`
 
 <p align="left">
   <!-- Languages & Runtimes -->
@@ -59,77 +59,32 @@ manifesto:
   <!-- Modern AI, Systems & DB -->
   <img src="https://img.shields.io/badge/MCP-Protocol-090d16?style=for-the-badge&logo=anthropic&logoColor=00f0ff&labelColor=0d1424" alt="MCP" />
   <img src="https://img.shields.io/badge/Docker-090d16?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=0d1424" alt="Docker" />
-  <img src="https://img.shields.io/badge/PostgreSQL-090d16?style=for-the-badge&logo=postgresql&logoColor=4169E1&labelColor=0d1424" alt="PostgreSQL" />
 </p>
 
 ---
 
-### 🎵 Soundtracks & Frequency
-
-> *"No matter what, you keep finding something to fight for — or a soundtrack to code by."*
-
-<p align="center">
-  <a href="https://open.spotify.com">
-    <img src="https://spotify-github-profile.kittinanx.com/api/run?type=compact&theme=synthwave" alt="Spotify Player" />
-  </a>
-</p>
-
-<details>
-  <summary>🎧 <b>Curated Soundtracks (Playlists que inspiram este perfil)</b></summary>
-  <br />
-  <table>
-    <tr>
-      <td width="33%" align="center">
-        <b>🦋 Life is Strange</b><br />
-        <i>"Obstacles" - Syd Matters</i><br />
-        <sub>Nostalgia, chuva de outono &amp; Polaroids</sub>
-      </td>
-      <td width="33%" align="center">
-        <b>⌚ The Last of Us</b><br />
-        <i>"The Choice" - Gustavo Santaolalla</i><br />
-        <sub>Violão acústico, silêncio &amp; resiliência</sub>
-      </td>
-      <td width="33%" align="center">
-        <b>💾 Cyberpunk 2077</b><br />
-        <i>"Never Fade Away" - SAMURAI</i><br />
-        <sub>Sintetizadores, neon &amp; código sob pressão</sub>
-      </td>
-    </tr>
-  </table>
-</details>
-
----
-
-### 🎒 Side Quests & Narrative Lore
+### `>Side Quests & Narrative Lore`
 
 <table>
   <tr>
     <td width="33%" valign="top">
       <h4>🦋 Arcadia Bay</h4>
-      <p><i>"This action will have consequences."</i></p>
-      <p>Cada linha de código é uma escolha que constrói a história do produto. Focado em experiências humanas e significativas.</p>
+      <p><i>"This Action Will Have Consequences."</i></p>
     </td>
     <td width="33%" valign="top">
       <h4>⌚ 2:15 • Jackson</h4>
-      <p><i>"Endure and survive."</i></p>
-      <p>O relógio de Joel quebrou, mas o tempo ensina resiliência: arquitetura limpa, código durável e resolução obstinada de bugs.</p>
+      <p><i>"Endure and Survive."</i></p>
     </td>
     <td width="33%" valign="top">
       <h4>💾 Night City Relic</h4>
-      <p><i>"City of dreams, code with soul."</i></p>
-      <p>Explorando a fronteira de IA com Model Context Protocol (MCP) e integrações autônomas sem perder o toque aconchegante.</p>
+      <p><i>"City of Dreams"</i></p>
     </td>
   </tr>
 </table>
 
 ---
 
-### 📊 Code Telemetry
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Fideloo&show_icons=true&bg_color=090d16&title_color=00f0ff&text_color=94a3b8&icon_color=38bdf8&border_color=1e293b&border_radius=10" alt="Fideloo GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fideloo&layout=compact&bg_color=090d16&title_color=00f0ff&text_color=94a3b8&border_color=1e293b&border_radius=10" alt="Top Languages" />
-</p>
+### `>Code Telemetry`
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Fideloo/Fideloo/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
@@ -137,13 +92,13 @@ manifesto:
 
 ---
 
-### 📡 Let's Connect & Build
+### `>Let's Connect & Build`
 
 <p align="center">
   <a href="https://linkedin.com/in/fideloo" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-090d16?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1424" alt="LinkedIn" />
   </a>
-  <a href="mailto:lcardosofidelix@gmail.com">
+  <a href="mailto:luizfidelix@gmail.com">
     <img src="https://img.shields.io/badge/Email-090d16?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1424" alt="Email" />
   </a>
   <a href="https://github.com/Fideloo">
@@ -152,5 +107,5 @@ manifesto:
 </p>
 
 <p align="center">
-  <sub>Designed with 💙 for <b>Luiz Gustavo (Fidelo)</b> • <i>"Endure and survive"</i></sub>
+  <sub><b>Luiz Gustavo (Fidelo) Cardoso Fidélix</b> • <i>"City of Dreams"</i></sub>
 </p>

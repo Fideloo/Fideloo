@@ -58,7 +58,6 @@ manifesto:
 
   <!-- Modern AI, Systems & DB -->
   <img src="https://img.shields.io/badge/MCP-Protocol-0d0818?style=for-the-badge&logo=anthropic&logoColor=c084fc&labelColor=160d29" alt="MCP" />
-  <img src="https://img.shields.io/badge/Docker-0d0818?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=160d29" alt="Docker" />
 </p>
 
 ---

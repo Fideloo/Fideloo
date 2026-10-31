@@ -7,12 +7,10 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Fideloo">
-    <img src="https://img.shields.io/badge/GITHUB-FIDELOO-0d0818?style=for-the-badge&logo=github&logoColor=c084fc&labelColor=160d29" alt="GitHub Fideloo" />
-  </a>
+  <a href="https://github.com/Fideloo"><img src="https://img.shields.io/badge/GITHUB-FIDELOO-0d0818?style=for-the-badge&logo=github&logoColor=c084fc&labelColor=160d29" alt="GitHub Fideloo" /></a>
   <img src="https://img.shields.io/badge/LOCATION-BRASIL-0d0818?style=for-the-badge&logo=googlemaps&logoColor=a855f7&labelColor=160d29" alt="Location Brasil" />
   <img src="https://img.shields.io/badge/ROLE-FULL--STACK%20%40%20NUMENIT-0d0818?style=for-the-badge&logo=codeforces&logoColor=c084fc&labelColor=160d29" alt="Role" />
-  <img src="https://img.shields.io/badge/FOCUS-AI%20%26%20SOFTWARE-0d0818?style=for-the-badge&logoColor=a855f7&labelColor=160d29" alt="Focus" />
+  <img src="https://img.shields.io/badge/NOW-SAP%20BTP%20%26%20AI-0d0818?style=for-the-badge&logoColor=a855f7&labelColor=160d29" alt="Now" />
 </p>
 
 <p align="center">
@@ -30,10 +28,9 @@ identity:
 
 manifesto:
   engineering:
-    - "Full-stack development with modern web ecosystems"
-    - "AI integrations, intelligent workflows & MCP (Model Context Protocol)"
-    - "Clean backend architectures & resilient services"
-    - "Building useful, high-impact and scalable software"
+    - "Full-stack development with modern web ecosystems & SAP BTP"
+    - "Enterprise data modeling with SAP HANA & clean backend services"
+    - "AI, intelligent workflows & MCP"
 
   outside_the_terminal:
     - "Story-driven games with emotional resonance"

@@ -69,15 +69,15 @@ manifesto:
 <table width="100%">
   <tr>
     <td width="33%" align="center" valign="top">
-      <h4>🦋 Arcadia Bay</h4>
+      <h4>🦋 Arcadia Bay 🦋</h4>
       <p><i>"This Action Will Have Consequences."</i></p>
     </td>
     <td width="33%" align="center" valign="top">
-      <h4>⌚ 2:15 • Jackson</h4>
+      <h4>⌚ 2:15 • Jackson ⌚</h4>
       <p><i>"Endure and Survive."</i></p>
     </td>
     <td width="33%" align="center" valign="top">
-      <h4>💾 Night City Relic</h4>
+      <h4>💾 Night City Relic 💾</h4>
       <p><i>"City of Dreams"</i></p>
     </td>
   </tr>

@@ -3,16 +3,16 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Turning+ideas+into+working+software.;Some+stories+are+told+through+games.+Others+through+code.;Endure+and+survive.+Building+things+that+last.;Exploring+AI." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=Turning+ideas+into+working+software.;Some+stories+are+told+through+games.+Others+through+code.;Endure+and+survive.+Building+things+that+last.;Exploring+AI." alt="Typing SVG" />
 </p>
 
 <p align="center">
   <a href="https://github.com/Fideloo">
-    <img src="https://img.shields.io/badge/GITHUB-FIDELOO-090d16?style=for-the-badge&logo=github&logoColor=38bdf8&labelColor=0d1424" alt="GitHub Fideloo" />
+    <img src="https://img.shields.io/badge/GITHUB-FIDELOO-0d0818?style=for-the-badge&logo=github&logoColor=c084fc&labelColor=160d29" alt="GitHub Fideloo" />
   </a>
-  <img src="https://img.shields.io/badge/LOCATION-BRAZIL-090d16?style=for-the-badge&logo=googlemaps&logoColor=10b981&labelColor=0d1424" alt="Location Brazil" />
-  <img src="https://img.shields.io/badge/ROLE-FULL--STACK%20%40%20B2RISE-090d16?style=for-the-badge&logo=codeforces&logoColor=00f0ff&labelColor=0d1424" alt="Role" />
-  <img src="https://img.shields.io/badge/FOCUS-AI%20%26%20SOFTWARE-090d16?style=for-the-badge&labelColor=0d1424" alt="Focus" />
+  <img src="https://img.shields.io/badge/LOCATION-BRAZIL-0d0818?style=for-the-badge&logo=googlemaps&logoColor=a855f7&labelColor=160d29" alt="Location Brazil" />
+  <img src="https://img.shields.io/badge/ROLE-FULL--STACK%20%40%20B2RISE-0d0818?style=for-the-badge&logo=codeforces&logoColor=c084fc&labelColor=160d29" alt="Role" />
+  <img src="https://img.shields.io/badge/FOCUS-AI%20%26%20SOFTWARE-0d0818?style=for-the-badge&logoColor=a855f7&labelColor=160d29" alt="Focus" />
 </p>
 
 <p align="center">
@@ -48,17 +48,17 @@ manifesto:
 
 <p align="left">
   <!-- Languages & Runtimes -->
-  <img src="https://img.shields.io/badge/TypeScript-090d16?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=0d1424" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Node.js-090d16?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E&labelColor=0d1424" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Python-090d16?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=0d1424" alt="Python" />
+  <img src="https://img.shields.io/badge/TypeScript-0d0818?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=160d29" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-0d0818?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E&labelColor=160d29" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-0d0818?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=160d29" alt="Python" />
   
   <!-- Frontend & Frameworks -->
-  <img src="https://img.shields.io/badge/React-090d16?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0d1424" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-090d16?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0d1424" alt="Next.js" />
+  <img src="https://img.shields.io/badge/React-0d0818?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=160d29" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-0d0818?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=160d29" alt="Next.js" />
 
   <!-- Modern AI, Systems & DB -->
-  <img src="https://img.shields.io/badge/MCP-Protocol-090d16?style=for-the-badge&logo=anthropic&logoColor=00f0ff&labelColor=0d1424" alt="MCP" />
-  <img src="https://img.shields.io/badge/Docker-090d16?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=0d1424" alt="Docker" />
+  <img src="https://img.shields.io/badge/MCP-Protocol-0d0818?style=for-the-badge&logo=anthropic&logoColor=c084fc&labelColor=160d29" alt="MCP" />
+  <img src="https://img.shields.io/badge/Docker-0d0818?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=160d29" alt="Docker" />
 </p>
 
 ---
@@ -96,13 +96,13 @@ manifesto:
 
 <p align="center">
   <a href="https://linkedin.com/in/fideloo" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-090d16?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1424" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0d0818?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=160d29" alt="LinkedIn" />
   </a>
   <a href="mailto:luizfidelix@gmail.com">
-    <img src="https://img.shields.io/badge/Email-090d16?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1424" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-0d0818?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=160d29" alt="Email" />
   </a>
   <a href="https://github.com/Fideloo">
-    <img src="https://img.shields.io/badge/GitHub-090d16?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1424" alt="GitHub" />
+    <img src="https://img.shields.io/badge/GitHub-0d0818?style=for-the-badge&logo=github&logoColor=white&labelColor=160d29" alt="GitHub" />
   </a>
 </p>
 

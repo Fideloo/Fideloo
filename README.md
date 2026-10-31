@@ -46,7 +46,7 @@ manifesto:
 
 ### `>Core Tech Arsenal`
 
-<p align="left">
+<p align="center">
   <!-- Languages & Runtimes -->
   <img src="https://img.shields.io/badge/TypeScript-0d0818?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=160d29" alt="TypeScript" />
   <img src="https://img.shields.io/badge/Node.js-0d0818?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E&labelColor=160d29" alt="Node.js" />
@@ -64,22 +64,26 @@ manifesto:
 
 ### `>Side Quests & Narrative Lore`
 
-<table>
+<div align="center">
+
+<table width="100%">
   <tr>
-    <td width="33%" valign="top">
+    <td width="33%" align="center" valign="top">
       <h4>🦋 Arcadia Bay</h4>
       <p><i>"This Action Will Have Consequences."</i></p>
     </td>
-    <td width="33%" valign="top">
+    <td width="33%" align="center" valign="top">
       <h4>⌚ 2:15 • Jackson</h4>
       <p><i>"Endure and Survive."</i></p>
     </td>
-    <td width="33%" valign="top">
+    <td width="33%" align="center" valign="top">
       <h4>💾 Night City Relic</h4>
       <p><i>"City of Dreams"</i></p>
     </td>
   </tr>
 </table>
+
+</div>
 
 ---
 

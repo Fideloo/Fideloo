@@ -25,7 +25,7 @@
 identity:
   name: "Luiz Gustavo Cardoso Fidélix"
   alias: "Fidelo"
-  craft: "Full-Stack Developer @ B2RISE"
+  craft: "Full-Stack Developer @ NumenIT - NDS (Numen Digital Solutions)"
   origin: "Brasil 🇧🇷"
 
 manifesto:

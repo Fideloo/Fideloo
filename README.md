@@ -1,92 +1,156 @@
+<p align="center">
+  <img src="./assets/hero-banner.svg" alt="Luiz Gustavo | Fidelo Hero Banner" width="100%" />
+</p>
 
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0B12,50:542A78,100:00D9FF&height=200&section=header&text=Luiz%20Gustavo%20%7C%20Fidelo&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20%7C%20Building%20Digital%20Experiences&descAlignY=58&descSize=15" />
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=15&duration=3200&pause=1000&color=38BDF8&center=true&vCenter=true&width=650&lines=Turning+ideas+into+working+software.;Some+stories+are+told+through+games.+Others+through+code.;Endure+and+survive.+Building+things+that+last.;Exploring+AI%2C+MCP+and+backend+architecture." alt="Typing SVG" />
+</p>
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=3000&pause=1000&color=B794F6&center=true&vCenter=true&width=650&lines=Turning+ideas+into+working+software.;Building+with+code%2C+curiosity+and+coffee.;Some+stories+are+told+through+games.+Others+through+code.;Exploring+AI%2C+automation+and+backend+architecture." alt="Typing SVG" />
-</div>
-
-<br/>
-
-<div align="center">
+<p align="center">
   <a href="https://github.com/Fideloo">
-    <img src="https://img.shields.io/badge/GitHub-Fideloo-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GITHUB-FIDELOO-090d16?style=for-the-badge&logo=github&logoColor=38bdf8&labelColor=0d1424" alt="GitHub Fideloo" />
   </a>
-  <img src="https://img.shields.io/badge/Location-Brazil-542A78?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Brazil"/>
-  <img src="https://img.shields.io/badge/Focus-AI%20%26%20Software-00D9FF?style=for-the-badge&logoColor=white" alt="Focus"/>
-</div>
+  <img src="https://img.shields.io/badge/LOCATION-BRAZIL-090d16?style=for-the-badge&logo=googlemaps&logoColor=10b981&labelColor=0d1424" alt="Location Brazil" />
+  <img src="https://img.shields.io/badge/ROLE-FULL--STACK%20%40%20B2RISE-090d16?style=for-the-badge&logo=codeforces&logoColor=00f0ff&labelColor=0d1424" alt="Role" />
+  <img src="https://img.shields.io/badge/FOCUS-AI%20%26%20SOFTWARE-090d16?style=for-the-badge&logo=anthropic&logoColor=f59e0b&labelColor=0d1424" alt="Focus" />
+</p>
 
-<br/>
+<p align="center">
+  <img src="./assets/divider-consequences.svg" alt="Story-driven Divider" width="100%" />
+</p>
 
-## `> whoami`
+### 👾 `> whoami`
 
 ```yaml
-name: Luiz Gustavo Cardoso Fidélix
-alias: Fidelo
-role: Full-Stack Developer @ B2RISE
-location: Brazil 🇧🇷
+identity:
+  name: "Luiz Gustavo Cardoso Fidélix"
+  alias: "Fidelo"
+  craft: "Full-Stack Developer @ B2RISE"
+  origin: "Brazil 🇧🇷"
 
-interests:
-  - Full-stack development
-  - AI integrations and MCP
-  - Workflow automation
-  - Backend architecture
-  - Building useful, scalable software
+manifesto:
+  engineering:
+    - "Full-stack development with modern web ecosystems"
+    - "AI integrations, intelligent workflows & MCP (Model Context Protocol)"
+    - "Clean backend architectures & resilient services"
+    - "Building useful, high-impact and scalable software"
 
-outside_the_terminal:
-  - Story-driven games
-  - Music and soundtracks
-  - Cooking
-  - Exploring fictional worlds
+  outside_the_terminal:
+    - "Story-driven games with emotional resonance"
+    - "Music, cinematic soundtracks & fingerstyle acoustic guitar"
+    - "Cooking comfort food after long debugging sessions"
+    - "Exploring intricate fictional worlds and game lore"
 ```
-
-## `> tech-stack`
-
-<div align="center">
-
-### Languages & Backend
-
-<img src="https://skillicons.dev/icons?i=ts,js,nodejs,python,sql" alt="Languages and backend technologies"/>
-
-### Frontend & Tools
-
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,git,github" alt="Frontend and development tools"/>
-
-</div>
-
-### `> currently_exploring`
-
-- AI-powered applications and integrations
-- Model Context Protocol (MCP)
-- Workflow automation
-- Better developer experiences
-
-## `> beyond_the_code`
-
-<div align="center">
-
-## `> github_stats`
-
-<div align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=Fideloo&show_icons=true&hide_border=true&bg_color=0B0B12&title_color=B794F6&icon_color=00D9FF&text_color=D1D1DE&ring_color=B794F6" alt="GitHub stats"/>
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fideloo&layout=compact&hide_border=true&bg_color=0B0B12&title_color=B794F6&text_color=D1D1DE" alt="Top languages"/>
-</div>
-
-<div align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Fideloo&bg_color=0B0B12&color=B794F6&line=00D9FF&point=FFFFFF&area=true&hide_border=true" alt="GitHub activity graph"/>
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://raw.githubusercontent.com/Fideloo/Fideloo/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation"/>
-</div>
 
 ---
 
-<div align="center">
+### ⚡ Core Tech Arsenal
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:542A78,100:0B0B12&height=100&section=footer" width="100%" alt="Footer"/>
+<p align="left">
+  <!-- Languages & Runtimes -->
+  <img src="https://img.shields.io/badge/TypeScript-090d16?style=for-the-badge&logo=typescript&logoColor=3178C6&labelColor=0d1424" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Node.js-090d16?style=for-the-badge&logo=nodedotjs&logoColor=5FA04E&labelColor=0d1424" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Python-090d16?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=0d1424" alt="Python" />
+  
+  <!-- Frontend & Frameworks -->
+  <img src="https://img.shields.io/badge/React-090d16?style=for-the-badge&logo=react&logoColor=61DAFB&labelColor=0d1424" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-090d16?style=for-the-badge&logo=nextdotjs&logoColor=white&labelColor=0d1424" alt="Next.js" />
 
-</div>
+  <!-- Modern AI, Systems & DB -->
+  <img src="https://img.shields.io/badge/MCP-Protocol-090d16?style=for-the-badge&logo=anthropic&logoColor=00f0ff&labelColor=0d1424" alt="MCP" />
+  <img src="https://img.shields.io/badge/Docker-090d16?style=for-the-badge&logo=docker&logoColor=2496ED&labelColor=0d1424" alt="Docker" />
+  <img src="https://img.shields.io/badge/PostgreSQL-090d16?style=for-the-badge&logo=postgresql&logoColor=4169E1&labelColor=0d1424" alt="PostgreSQL" />
+</p>
+
+---
+
+### 🎵 Soundtracks & Frequency
+
+> *"No matter what, you keep finding something to fight for — or a soundtrack to code by."*
+
+<p align="center">
+  <a href="https://open.spotify.com">
+    <img src="https://spotify-github-profile.kittinanx.com/api/run?type=compact&theme=synthwave" alt="Spotify Player" />
+  </a>
+</p>
+
+<details>
+  <summary>🎧 <b>Curated Soundtracks (Playlists que inspiram este perfil)</b></summary>
+  <br />
+  <table>
+    <tr>
+      <td width="33%" align="center">
+        <b>🦋 Life is Strange</b><br />
+        <i>"Obstacles" - Syd Matters</i><br />
+        <sub>Nostalgia, chuva de outono &amp; Polaroids</sub>
+      </td>
+      <td width="33%" align="center">
+        <b>⌚ The Last of Us</b><br />
+        <i>"The Choice" - Gustavo Santaolalla</i><br />
+        <sub>Violão acústico, silêncio &amp; resiliência</sub>
+      </td>
+      <td width="33%" align="center">
+        <b>💾 Cyberpunk 2077</b><br />
+        <i>"Never Fade Away" - SAMURAI</i><br />
+        <sub>Sintetizadores, neon &amp; código sob pressão</sub>
+      </td>
+    </tr>
+  </table>
+</details>
+
+---
+
+### 🎒 Side Quests & Narrative Lore
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>🦋 Arcadia Bay</h4>
+      <p><i>"This action will have consequences."</i></p>
+      <p>Cada linha de código é uma escolha que constrói a história do produto. Focado em experiências humanas e significativas.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>⌚ 2:15 • Jackson</h4>
+      <p><i>"Endure and survive."</i></p>
+      <p>O relógio de Joel quebrou, mas o tempo ensina resiliência: arquitetura limpa, código durável e resolução obstinada de bugs.</p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>💾 Night City Relic</h4>
+      <p><i>"City of dreams, code with soul."</i></p>
+      <p>Explorando a fronteira de IA com Model Context Protocol (MCP) e integrações autônomas sem perder o toque aconchegante.</p>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 📊 Code Telemetry
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Fideloo&show_icons=true&bg_color=090d16&title_color=00f0ff&text_color=94a3b8&icon_color=38bdf8&border_color=1e293b&border_radius=10" alt="Fideloo GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fideloo&layout=compact&bg_color=090d16&title_color=00f0ff&text_color=94a3b8&border_color=1e293b&border_radius=10" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Fideloo/Fideloo/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+</p>
+
+---
+
+### 📡 Let's Connect & Build
+
+<p align="center">
+  <a href="https://linkedin.com/in/fideloo" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-090d16?style=for-the-badge&logo=linkedin&logoColor=0A66C2&labelColor=0d1424" alt="LinkedIn" />
+  </a>
+  <a href="mailto:lcardosofidelix@gmail.com">
+    <img src="https://img.shields.io/badge/Email-090d16?style=for-the-badge&logo=gmail&logoColor=EA4335&labelColor=0d1424" alt="Email" />
+  </a>
+  <a href="https://github.com/Fideloo">
+    <img src="https://img.shields.io/badge/GitHub-090d16?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1424" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Designed with 💙 for <b>Luiz Gustavo (Fidelo)</b> • <i>"Endure and survive"</i></sub>
+</p>

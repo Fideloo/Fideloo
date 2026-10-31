@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/GITHUB-FIDELOO-0d0818?style=for-the-badge&logo=github&logoColor=c084fc&labelColor=160d29" alt="GitHub Fideloo" />
   </a>
   <img src="https://img.shields.io/badge/LOCATION-BRASIL-0d0818?style=for-the-badge&logo=googlemaps&logoColor=a855f7&labelColor=160d29" alt="Location Brasil" />
-  <img src="https://img.shields.io/badge/ROLE-FULL--STACK%20%40%20B2RISE-0d0818?style=for-the-badge&logo=codeforces&logoColor=c084fc&labelColor=160d29" alt="Role" />
+  <img src="https://img.shields.io/badge/ROLE-FULL--STACK%20%40%20NUMENIT-0d0818?style=for-the-badge&logo=codeforces&logoColor=c084fc&labelColor=160d29" alt="Role" />
   <img src="https://img.shields.io/badge/FOCUS-AI%20%26%20SOFTWARE-0d0818?style=for-the-badge&logoColor=a855f7&labelColor=160d29" alt="Focus" />
 </p>
 

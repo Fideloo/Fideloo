@@ -37,9 +37,9 @@ manifesto:
 
   outside_the_terminal:
     - "Story-driven games with emotional resonance"
-    - "Music, cinematic soundtracks & fingerstyle acoustic guitar"
-    - "Cooking comfort food after long debugging sessions"
-    - "Exploring intricate fictional worlds and game lore"
+    - "Music"
+    - "Cooking comfort food"
+    - "Exploring fictional worlds and game lore"
 ```
 
 ---
